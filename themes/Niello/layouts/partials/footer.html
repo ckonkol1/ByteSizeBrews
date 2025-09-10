@@ -2,6 +2,16 @@
     <div class="text-center text-gray-500/80">
         {{ if .Site.Params.license.copyright }}
         {{ .Site.Params.license.copyright | safeHTML }}
+        {{ else }}
+        &#xA9; 2025 by <a class="hover:text-gray-100" href="https://github.com/ckonkol1/"
+            target="_blank">ByteSizeBrews</a>. All Rights
+        Reserved.
+        {{ end }}
+    </div>
+    <div>
+        {{ range .Site.Languages }}
+        <a class="hover:text-gray-100" href="{{ if eq .Lang "en" }} / {{ else }} /{{.Lang}} {{ end }}">{{
+            .LanguageName }}</a>
         {{ end }}
     </div>
 </footer>
