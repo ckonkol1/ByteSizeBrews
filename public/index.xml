@@ -6,12 +6,12 @@
     <description>Recent content on {CodeTrace} - Discover Issues, Share Solutions.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Aug 2025 16:32:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 13:30:10 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minimal vs. Controller-Based APIs</title>
       <link>http://localhost:1313/en/posts/techdeepdive/minimalvsfullapi/</link>
-      <pubDate>Fri, 29 Aug 2025 16:32:11 +0800</pubDate>
+      <pubDate>Mon, 08 Sep 2025 13:30:10 +0300</pubDate>
       <guid>http://localhost:1313/en/posts/techdeepdive/minimalvsfullapi/</guid>
       <description>&lt;p&gt;When it comes to building APIs in ASP.NET Core, developers often find themselves weighing the benefits of&#xA;&lt;span style=&#34;color: #0074D9; font-weight: bold;&#34;&gt;Minimal APIs&lt;/span&gt; against the more traditional &lt;span style=&#34;color: #12a14eff; font-weight: bold;&#34;&gt;Controller-based APIs&lt;/span&gt;.&#xA;Both approaches offer unique advantages and challenges, making it vital to choose the right one for your project. This guide provides a concise comparison of each method, highlighting their pros and cons to help you make an informed architectural decision.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-minimal-apis&#34;&gt;🚀 Minimal APIs&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Introduced in .NET 6, Minimal APIs bring a fresh perspective to building HTTP APIs by reducing boilerplate code and enabling lightweight applications, particularly suited for microservices.&lt;/p&gt;</description>
     </item>

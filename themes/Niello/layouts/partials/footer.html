@@ -10,7 +10,7 @@
     </div>
     <div>
         {{ range .Site.Languages }}
-        <a class="hover:text-gray-100" href="{{ if eq .Lang " en" }} / {{ else }} /{{.Lang}} {{ end }}">{{
+        <a class="hover:text-gray-100" href="{{ if eq .Lang "en" }} / {{ else }} /{{.Lang}} {{ end }}">{{
             .LanguageName }}</a>
         {{ end }}
     </div>
