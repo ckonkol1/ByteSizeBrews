@@ -18,7 +18,7 @@ When it comes to building APIs in ASP.NET Core, developers often find themselves
 Introduced in .NET 6, Minimal APIs bring a fresh perspective to building HTTP APIs by reducing boilerplate code and enabling lightweight applications, particularly suited for microservices.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
-  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #28a745; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #f8f9fa;">
+  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #28a745; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #c7e4d9ff;">
     <h4 style="color: #28a745; margin-top: 0; font-size: 1.2em; font-weight: bold;">✅ Pros</h4>
     <ul style="margin: 0; padding-left: 1.2rem; color: #212529;">
       <li style="margin-bottom: 0.8rem;"><strong>Concise Syntax:</strong> With fewer lines of code, enabling readability and ease of maintenance</li>
@@ -26,7 +26,7 @@ Introduced in .NET 6, Minimal APIs bring a fresh perspective to building HTTP AP
       <li style="margin-bottom: 0;"><strong>Flexible Routing:</strong> Customizable routing and endpoint definitions to match specific needs</li>
     </ul>
   </div>
-  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #dc3545; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #f8f9fa;">
+  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #dc3545; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #e9cbc0ff;">
     <h4 style="color: #dc3545; margin-top: 0; font-size: 1.2em; font-weight: bold;">❌ Cons</h4>
     <ul style="margin: 0; padding-left: 1.2rem; color: #212529;">
       <li style="margin-bottom: 0.8rem;"><strong>Limited Features:</strong> Lacks built-in support for model binding and validation</li>
@@ -43,14 +43,14 @@ Introduced in .NET 6, Minimal APIs bring a fresh perspective to building HTTP AP
 Based on the Model-View-Controller (MVC) pattern, Controller-based APIs rely on a more structured approach, making them suitable for applications with intricate business logic.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
-  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #28a745; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #f8f9fa;">
+  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #28a745; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #c7e4d9ff;">
     <h4 style="color: #28a745; margin-top: 0; font-size: 1.2em; font-weight: bold;">✅ Pros</h4>
     <ul style="margin: 0; padding-left: 1.2rem; color: #212529;">
       <li style="margin-bottom: 0.8rem;"><strong>Feature-Rich:</strong> Offers robust features including model binding, validation, and view rendering, all included out of the box</li>
       <li style="margin-bottom: 0;"><strong>Organizational Clarity:</strong> The MVC pattern ensures a clear separation of concerns, facilitating easier maintainability as the application scales</li>
     </ul>
   </div>
-  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #dc3545; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #f8f9fa;">
+  <div style="padding: 1.5rem; border-radius: 8px; border-left: 4px solid #dc3545; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background: #e9cbc0ff;">
     <h4 style="color: #dc3545; margin-top: 0; font-size: 1.2em; font-weight: bold;">❌ Cons</h4>
     <ul style="margin: 0; padding-left: 1.2rem; color: #212529;">
       <li style="margin-bottom: 0.8rem;"><strong>Performance Overhead:</strong> The richness of features may lead to increased overhead, potentially impacting performance. Controllers load all dependencies for every endpoint call even if the endpoint does not specifically need the dependency.</li>
