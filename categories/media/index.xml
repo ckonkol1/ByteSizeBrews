@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Media on {CodeTrace} - Discover Issues, Share Solutions.</title><link>https://bytesizebrews.com/categories/media/</link><description>Recent content in Media on {CodeTrace} - Discover Issues, Share Solutions.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 16:32:11 +0800</lastBuildDate><atom:link href="https://bytesizebrews.com/categories/media/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcasts for Software Engineers</title><link>https://bytesizebrews.com/en/posts/podcastsforsoftwareengineers/</link><pubDate>Fri, 29 Aug 2025 16:32:11 +0800</pubDate><guid>https://bytesizebrews.com/en/posts/podcastsforsoftwareengineers/</guid><description>&lt;div align="center">
- &lt;img src="https://bytesizebrews.com/image/posts/softwareEngineerPodcast/cat_podcast.png" alt="Podcast Cat" width="75%" />
+ &lt;img src="https://bytesizebrews.com/image/posts/softwareEngineerPodcast/cat_podcast.png" alt="Podcast Cat" width="55%" />
 &lt;/div>
 &lt;br/>
 &lt;p>Whether you&amp;rsquo;re looking to level up your technical skills, improve your leadership abilities, or stay current with industry trends, these five podcasts offer something valuable for every software engineer. From data science deep-dives to soft skills advice, here&amp;rsquo;s your guide to some of my top podcasts available.&lt;/p>
 &lt;br clear="all"/>
 &lt;hr>
 &lt;br clear="all"/>
-&lt;img src="https://bytesizebrews.com/image/posts/softwareEngineerPodcast/SDS_podcast.jpg" alt="SuperDataScience Podcast" style="float:left; margin-right:18px; margin-bottom:8px;" width="50%"/>
+&lt;img src="https://bytesizebrews.com/image/posts/softwareEngineerPodcast/softskilleng.png" alt="Soft Skills Engineering" style="float:left; margin-right:18px; margin-bottom:8px;" width="40%"/>
 &lt;p align = left>
-Hosted by Dr. Jon Krohn, the SuperDataScience Podcast explores the world of data science, machine learning, and artificial intelligence through insightful conversations. The podcast connects seasoned data professionals and newcomers with a conversational and anecdotal approach, fostering an open and relatable environment. The goal is to bring you the most inspiring Data Scientists and Analysts from around the world to help you build a successful career in Data Science.
-&lt;p>Perfect for anyone interested in ML, AI, or data science careers, this podcast covers both academic research and industry applications.&lt;/p></description></item></channel></rss>
+It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer. Hosted by Jamison Dance and Dave Smith, this show tackles the human side of software development.
+&lt;/p></description></item></channel></rss>
