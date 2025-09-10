@@ -39,6 +39,9 @@ theme = 'Niello'
 [params.categoryImages]
     "Soft Skills & Career" = "/image/categories/softskillscareer_robots.png"
 	"Media" = "/image/categories/media.png"
+	"Showcase" = "/image/categories/showcase.png"
+	"Technical Deep Dive" = "/image/categories/techdeepdive.png"
 	#technicalDeepDives, IndustryAndTrends
 [params.tagImages]
 	"Podcast" = "/image/tags/podcast.png"
+	"DotNet" = "/image/tags/dotnet.png"

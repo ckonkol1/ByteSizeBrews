@@ -3,15 +3,19 @@ title: Designing Mentorship for Success
 categories: ["Soft Skills & Career"]
 featuredImage: "image/posts/mentoring.png"
 
-Date: 2025-08-27
+Date: 2025-09-01T20:30:00+00:00
 draft: true
 ---
 
+<div align="center">
+  <img src="/image/posts/mentoring.png" alt="Mentoring" width="75%" />
+</div>
 
- <img src="/image/posts/mentoring.png" alt="Mentorship" width="65%"/>
+<br/>
+
 
 Ever wondered how to actually mentor someone effectively? Or maybe you're trying to figure out what mentoring approach would work best in your workplace? <br>
-I've been thinking about this a lot lately, and there's honestly no one-size-fits-all answer. That's why I want to walk you through both the tried-and-true mentoring methods and some of the newer approaches that are gaining traction. We'll also dive into the fundamentals, tackle some of those tricky challenges you're bound to face, and share some practical tips that actually work.
+As you move up the corproate ladder in your career, its often expected that you begin to mentor and teach more juior employees. In fact, almost every job posting out there include the ability to Mentor and teach neccessay skills. I've been thinking about this a lot lately, and there's honestly no one-size-fits-all answer. That's why I want to walk you through both the tried-and-true mentoring methods and some of the newer approaches that are gaining traction. We'll also dive into the fundamentals, tackle some of those tricky challenges you're bound to face, and share some practical tips that actually work.
 Here's the thing though – and this is super important – mentoring only works when it clicks for both people involved. What works perfectly for one mentor-mentee pair might fall flat for another. Everyone brings different needs, communication styles, and goals to the table.
 So whether you're about to mentor someone for the first time or you're looking to shake up your current approach, I'm hoping this gives you some fresh ideas and maybe a few "aha" moments for your next mentoring relationship.
 

@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-29T16:32:11+08:00</lastmod>
+    <lastmod>2025-09-01T20:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-09-01T20:30:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-08-29T16:32:11+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>http://localhost:1313/tags/dotnet/</loc>
     <lastmod>2025-08-29T16:32:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/media/</loc>
+    <lastmod>2025-08-29T16:32:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/techdeepdive/minimalvsfullapi/</loc>
     <lastmod>2025-08-29T16:32:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/podcast/</loc>
@@ -24,6 +30,9 @@
     <lastmod>2025-08-29T16:32:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-29T16:32:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technical-deep-dive/</loc>
     <lastmod>2025-08-29T16:32:11+08:00</lastmod>
   </url>
 </urlset>
