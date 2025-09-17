@@ -6,8 +6,15 @@
     <description>Recent content on {CodeTrace} - Discover Issues, Share Solutions.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Sep 2025 13:30:10 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 09:15:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Daily Dev Stack: Tools I Wouldn&#39;t Want to Code Without</title>
+      <link>http://localhost:1313/en/posts/devtools/</link>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/devtools/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/image/posts/devtools/devtools.png&#34; alt=&#34;Yeti Developer&#34; width=&#34;55%&#34; /&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br/&gt;&#xD;&#xA;&lt;p&gt;As a software engineer, there are countless tools available to boost productivity and make development life easier. As an experienced developer, I wanted to share the tools I use daily and explain why they&amp;rsquo;ve earned a permanent spot in my workflow. Keep in mind that tool choice is highly personal. What works for my coding style and needs might differ from yours.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Note: No affiliate links or sponsorships here—just sharing tools that actually make my coding life better. All links go straight to the official product sites.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Minimal vs. Controller-Based APIs</title>
       <link>http://localhost:1313/en/posts/techdeepdive/minimalvsfullapi/</link>
