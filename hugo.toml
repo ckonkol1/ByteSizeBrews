@@ -31,7 +31,7 @@ theme = 'Niello'
 [params]
 [params.bannershowcase]
 	categories = ["Showcase"]
-	limit = 2
+	limit = 3
 [params.email]
 	contact = "bytesizebrews@gmail.com"
 [params.ignore]

@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-08T13:30:10+03:00</lastmod>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-08T13:30:10+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dotnet/</loc>
-    <lastmod>2025-09-08T13:30:10+03:00</lastmod>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/devtools/</loc>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/showcase/</loc>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technical-deep-dive/</loc>
+    <lastmod>2025-09-15T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dotnet/</loc>
     <lastmod>2025-09-08T13:30:10+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/techdeepdive/minimalvsfullapi/</loc>
     <lastmod>2025-09-08T13:30:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/showcase/</loc>
-    <lastmod>2025-09-08T13:30:10+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-08T13:30:10+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technical-deep-dive/</loc>
     <lastmod>2025-09-08T13:30:10+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/media/</loc>
